@@ -1,2 +1,2 @@
 # Flip-The-Switch
-Colors invert when you go past the middle line.
+Colors invert when you go past the middle line with your mouse.
